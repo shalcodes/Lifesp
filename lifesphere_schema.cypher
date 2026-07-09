@@ -1,7 +1,7 @@
 // =============================================================================
 // LifeSphere Knowledge Graph — Schema Migration
 // =============================================================================
-// File:        V1__lifesphere_schema.cypher
+// File:        lifesphere_schema.cypher
 // Source:      neo4j_updated_schema_new.md (schema authority: KG_Entity_and_Attribute.xlsx)
 // Target:      Neo4j 5.x (Community-safe; Enterprise-only blocks are commented)
 // Idempotent:  Yes — every statement uses IF NOT EXISTS and may be re-run safely.
